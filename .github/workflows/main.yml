@@ -17,7 +17,7 @@ jobs:
           rm -Rf gh-build
           mkdir gh-build
           cd gh-build
-          git clone https://github.com/klawx3/kx3
+          git clone https://github.com/klawx3/kx3.git
           cd kx3
           docker build -t klawx3/kx3 .
           docker stop kx3
