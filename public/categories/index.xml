@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 🔥 Klaw | Kenshi</title>
-    <link>http://example.org/categories/</link>
+    <link>kx3.org/categories/</link>
     <description>Recent content in Categories on 🔥 Klaw | Kenshi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="kx3.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
