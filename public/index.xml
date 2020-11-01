@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kx3 on 🔥 Klaw | Kenshi</title>
-    <link>kx3.org/</link>
+    <link>psii.softether.net/</link>
     <description>Recent content in Kx3 on 🔥 Klaw | Kenshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 31 Oct 2020 15:10:32 -0300</lastBuildDate><atom:link href="kx3.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2020 15:10:32 -0300</lastBuildDate><atom:link href="psii.softether.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer Post</title>
-      <link>kx3.org/posts/primer-post/</link>
+      <link>psii.softether.net/posts/primer-post/</link>
       <pubDate>Sat, 31 Oct 2020 15:10:32 -0300</pubDate>
       
-      <guid>kx3.org/posts/primer-post/</guid>
+      <guid>psii.softether.net/posts/primer-post/</guid>
       <description>Hola 🖖 Este sera el inicio de un nuevo Blog/Guías sobre cosas que me interan o me llaman la atención. entre algunas cosas de mi interes:
  Desarrollo  Back-end Video-Juegos   Linux IA Tecnologias disrruptivas en general  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>kx3.org/contact/</link>
+      <link>psii.softether.net/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>kx3.org/contact/</guid>
+      <guid>psii.softether.net/contact/</guid>
       <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
 Your Name Email Address An email address is required.  Message   </description>
     </item>
