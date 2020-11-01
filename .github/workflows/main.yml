@@ -13,15 +13,6 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        script: |
-          rm -Rf gh-build
-          mkdir gh-build
-          cd gh-build
-          git clone https://github.com/klawx3/kx3.git
-          cd kx3
-          docker build -t klawx3/kx3 .
-          docker stop kx3
-          docker rm kx3
-          docker docker run -d --name kx3 --network klawx3-net klawx3/kx3
+        script: deploy_kx3.sh
           
           
