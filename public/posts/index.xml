@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 🔥 Klaw | Kenshi</title>
-    <link>psii.softether.net/posts/</link>
+    <link>http://psii.softether.net/posts/</link>
     <description>Recent content in Posts on 🔥 Klaw | Kenshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 31 Oct 2020 15:10:32 -0300</lastBuildDate><atom:link href="psii.softether.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2020 15:10:32 -0300</lastBuildDate><atom:link href="http://psii.softether.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer Post</title>
-      <link>psii.softether.net/posts/primer-post/</link>
+      <link>http://psii.softether.net/posts/primer-post/</link>
       <pubDate>Sat, 31 Oct 2020 15:10:32 -0300</pubDate>
       
-      <guid>psii.softether.net/posts/primer-post/</guid>
+      <guid>http://psii.softether.net/posts/primer-post/</guid>
       <description>Hola 🖖 Este sera el inicio de un nuevo Blog/Guías sobre cosas que me interan o me llaman la atención. entre algunas cosas de mi interes:
  Desarrollo  Back-end Video-Juegos   Linux IA Tecnologias disrruptivas en general  </description>
     </item>
