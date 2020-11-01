@@ -1,4 +1,4 @@
-baseURL = "psii.softether.net"
+baseURL = "http://psii.softether.net"
 languageCode = "es"
 title = "🔥 Klaw | Kenshi"
 theme = "ananke"
