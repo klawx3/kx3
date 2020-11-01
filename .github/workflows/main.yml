@@ -13,6 +13,6 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        script: deploy_kx3.sh
+        script: sh ~/deploy_kx3.sh
           
           
